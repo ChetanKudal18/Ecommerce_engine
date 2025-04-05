@@ -18,9 +18,9 @@ A responsive and user-friendly frontend for an e-commerce platform, designed to 
 ## 📸 Screenshots
 
 <!-- Add screenshots here if you have them -->
-![Home Page](screenshots/home.png)
-![Product Page](screenshots/product.png)
-![Cart Page](screenshots/cart.png)
+![Interface](screenshots/home.png)
+![Product Page UI](screenshots/product.png)
+![Payment](screenshots/cart.png)
 
 ## 🚀 How to Run
 
