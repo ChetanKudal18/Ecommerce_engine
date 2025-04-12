@@ -15,13 +15,6 @@ A responsive and user-friendly frontend for an e-commerce platform, designed to 
 - **CSS3**
 - **JavaScript**
 
-## 📸 Screenshots
-
-<!-- Add screenshots here if you have them -->
-![Interface](screenshots/home.png)
-![Product Page UI](screenshots/product.png)
-![Payment](screenshots/cart.png)
-
 ## 🚀 How to Run
 
 1. Clone the repository  
