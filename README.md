@@ -27,5 +27,5 @@ A responsive and user-friendly frontend for an e-commerce platform, designed to 
 1. Clone the repository  
 
 🧑‍💻 Author:
-Chetan Basavaraj Kudal
+Chetan Basavaraj Kudal--
 LinkedIn: https://www.linkedin.com/in/chetan-kudal-258240270
