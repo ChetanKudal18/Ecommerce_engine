@@ -14,7 +14,9 @@ A responsive and user-friendly frontend for an e-commerce platform, designed to 
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-
+- **Django**
+- **SQL**
+- **REST API**
 ## 🚀 How to Run
 
 1. Clone the repository  
