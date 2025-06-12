@@ -1,4 +1,4 @@
-# Ecommerce_engine
+# Ecommerce_engine(ShopSphere)
 A responsive and user-friendly frontend for an e-commerce platform, designed to showcase products, enable seamless navigation, and offer an engaging shopping experience.
 
 ## 💡 Features
